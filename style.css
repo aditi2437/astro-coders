@@ -1,0 +1,68 @@
+
+
+h2{
+    background-color: rgb(1, 17, 66);
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: orangered; 
+    font-size: 65px;
+    background-image: url(https://shots.codepen.io/umangladani/pen/wvgwgjK-800.jpg?version=1617687444);
+}
+.div1{
+    margin: 30px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 40px;
+    border: 1px solid;
+    /* width: 150px; */
+    text-align: center;
+    font-style: italic;
+    font-size: large;
+     background-color: rgb(8, 75, 97); 
+     color: blanchedalmond;
+     box-shadow: 10px 30px 100px rgba(0,0,0,0.9);
+}
+.div2{
+    background-image: url(https://img.freepik.com/free-photo/gradient-blue-abstract-background-smooth-dark-blue-with-black-vignette-studio_1258-67574.jpg?semt=ais_incoming&w=740&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.div3{
+    border: solid blanchedalmond;
+    margin: 10px;
+    padding: 10px;
+}
+.div4{
+    background-color:  rgb(1, 17, 66);
+    width: 350px;
+    height: 200px;
+    text-align: center;
+    color: blanchedalmond;
+    border: 10px;
+    box-shadow:  10px 30px 100px rgba(0,0,0,0.9);
+    margin: 10px;
+    margin-left: 1000px;
+    padding: 20px
+}
+.overview-card{
+  background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
+  background-color:  rgb(1, 17, 66);
+  padding:12px;
+  border-radius:10px;
+  box-shadow: var(--card-shadow);
+  text-align:center;
+  color: blanchedalmond;
+  margin: 10px;
+  padding: 20px;
+  margin-left: 500px;
+  margin-right: 500px;
+  box-shadow: 10px 30px 100px rgba(0,0,0,0.9);
+}
+.overview-card .big{ font-size:18px; color:var(--accent); font-weight:700 }
+
+
+
+
+
